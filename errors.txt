@@ -1,3 +1,0 @@
-errors 1
-errors 2
-errors 3
